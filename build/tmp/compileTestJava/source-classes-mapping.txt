@@ -1,0 +1,2 @@
+com/bbangduck/web/HelloControllerTest.java
+ com.bbangduck.web.HelloControllerTest
